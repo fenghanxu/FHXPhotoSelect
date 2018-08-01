@@ -1,0 +1,6 @@
+framework module FHXPhotoSelect {
+  umbrella header "FHXPhotoSelect-umbrella.h"
+
+  export *
+  module * { export * }
+}

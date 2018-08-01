@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXPhotoSelect_Example' do
+  pod 'FHXPhotoSelect', :path => '../'
+
+  target 'FHXPhotoSelect_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

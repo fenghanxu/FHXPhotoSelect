@@ -1,0 +1,16 @@
+PODS:
+  - FHXPhotoSelect (0.1.0)
+
+DEPENDENCIES:
+  - FHXPhotoSelect (from `../`)
+
+EXTERNAL SOURCES:
+  FHXPhotoSelect:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXPhotoSelect: 36d760f6dc0a06976a4dc9259d369d8388afca5c
+
+PODFILE CHECKSUM: 68555ab32709c3bfee21036df4a10cd77e4fea76
+
+COCOAPODS: 1.4.0
