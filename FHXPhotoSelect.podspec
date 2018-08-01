@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FHXPhotoSelect'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'A short description of FHXPhotoSelect.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.public_header_files = ["Sources/PhotoSelectGit.h"]
+  s.public_header_files = ["Sources/FHXPhotoSelect.h"]
   s.source_files = ["Sources/**","Sources/*/**","Sources/*/*/**"]
 
   s.resource_bundles = {
